@@ -28,7 +28,7 @@
 		<redisson.version>2.2.21</redisson.version>
 		<kafka.client.version>2.3.1</kafka.client.version>
 		<commons.lang3.version>3.9</commons.lang3.version>
-		<mybatis.version>3.5.3</mybatis.version>
+		<mybatis.version>3.5.6</mybatis.version>
 		<druid.version>1.1.21</druid.version>
 		<hutool.version>4.0.12</hutool.version>
 		<shiro.spring.version>1.4.2</shiro.spring.version>
