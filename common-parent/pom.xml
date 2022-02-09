@@ -31,7 +31,7 @@
 		<mybatis.version>3.5.3</mybatis.version>
 		<druid.version>1.1.21</druid.version>
 		<hutool.version>4.0.12</hutool.version>
-		<shiro.spring.version>1.4.2</shiro.spring.version>
+		<shiro.spring.version>1.7.1</shiro.spring.version>
 		<aliyun.oss.version>2.5.0</aliyun.oss.version>
 		<cglib.nodep.version>3.2.4</cglib.nodep.version>
 		<xxl-job.version>2.1.0</xxl-job.version>
