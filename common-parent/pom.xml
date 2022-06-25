@@ -9,7 +9,7 @@
 	<properties>
 		<linzoe.version>2.0.0-SNAPSHOT</linzoe.version>
 		<spring.version>5.2.1.RELEASE</spring.version>
-		<spring.data.version>2.2.2.RELEASE</spring.data.version>
+		<spring.data.version>3.3.5</spring.data.version>
 		<spring.boot.version>2.2.1.RELEASE</spring.boot.version>
 		<mysql.driver.version>8.0.17</mysql.driver.version>
 		<aspectj.version>1.8.5</aspectj.version>
