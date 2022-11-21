@@ -34,7 +34,7 @@
 		<shiro.spring.version>1.4.2</shiro.spring.version>
 		<aliyun.oss.version>2.5.0</aliyun.oss.version>
 		<cglib.nodep.version>3.2.4</cglib.nodep.version>
-		<xxl-job.version>2.1.0</xxl-job.version>
+		<xxl-job.version>2.3.1</xxl-job.version>
 		<yunpian.version>1.2.4</yunpian.version>
 		<dubbo.version>2.6.8</dubbo.version>
 		<netty.version>4.0.35.Final</netty.version>
